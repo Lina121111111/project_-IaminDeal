@@ -1,0 +1,14 @@
+body {
+    background-color: #800080; /* Фиолетовый цвет фона */
+    color: #000000; /* Черный цвет текста */
+    font-family: Arial, sans-serif; /* Шрифт без засечек */
+    margin: 0;
+    padding: 0;
+}
+
+/* Стили для заголовка */
+h1 {
+    text-align: center; /* Выравнивание по центру */
+    font-size: 48px; /* Размер шрифта */
+    margin-top: 20%; /* Отступ сверху */
+}
